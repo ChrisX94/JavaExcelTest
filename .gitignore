@@ -1,0 +1,6 @@
+.settings/
+bin/
+.project
+.DS_store
+target/
+.mvn/
